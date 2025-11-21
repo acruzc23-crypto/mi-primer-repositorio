@@ -1,1 +1,11 @@
-
+ID_Cliente,Nombre,Apellido,Correo,Teléfono,Ciudad,País
+1,Ana,Pérez,ana.perez@email.com,0991234567,Quito,Ecuador
+2,Carlos,Gómez,carlos.gomez@email.com,0987654321,Guayaquil,Ecuador
+3,María,López,maria.lopez@email.com,0971122334,Bogotá,Colombia
+4,José,Ramírez,jose.ramirez@email.com,0965566778,Lima,Perú
+5,Lucía,Fernández,lucia.fernandez@email.com,0959988776,Madrid,España
+6,Pedro,Sánchez,pedro.sanchez@email.com,0944455667,México DF,México
+7,Valeria,Morales,valeria.morales@email.com,0933344556,Santiago,Chile
+8,Andrés,Castro,andres.castro@email.com,0922233445,Buenos Aires,Argentina
+9,Sofía,Herrera,sofia.herrera@email.com,0911122334,Montevideo,Uruguay
+10,Diego,Vargas,diego.vargas@email.com,0909988776,San José,Costa Rica
